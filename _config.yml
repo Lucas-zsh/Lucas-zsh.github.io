@@ -4,9 +4,9 @@ bio: 'Developer and heading for full-stack engineer'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/profile.jpg'
+picture: 'assets/images/me.jpg'
 
-url: http://http://lucas-zsh.github.io/
+url: http://lucas-zsh.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -25,7 +25,7 @@ analytics-google: 'UA-MYANALYTICS'
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/sihaozhanglucas
+linkedin: sihaozhanglucas
 #youtube: myyoutube
 #spotify: myspotify
 github: Lucas-zsh
