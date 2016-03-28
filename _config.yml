@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Sihao Zhang
+bio: 'Developer and heading for full-stack engineer'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
+url: http://http://lucas-zsh.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -17,20 +17,20 @@ highlighter: rouge
 analytics-google: 'UA-MYANALYTICS'
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+#disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+linkedin: https://www.linkedin.com/in/sihaozhanglucas
+#youtube: myyoutube
+#spotify: myspotify
+github: Lucas-zsh
+#medium: medium
+email: zhangsh0711@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
